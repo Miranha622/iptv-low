@@ -44,3 +44,6 @@ http://xsrv.me:8080/edmundo2021/2021edmundo/25002
 
 #EXTINF: -1 tvg-logo = "" group-title = "Noticias", Rede Globo
 http://xsrv.me:8080/edmundo2021/2021edmundo/30673
+
+#EXTINF: -1 tvg-logo = "" group-title = "Noticias", SBT
+http://xsrv.me:8080/edmundo2021/2021edmundo/28183
