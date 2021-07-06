@@ -38,3 +38,6 @@ http://xsrv.me:8080/edmundo2021/2021edmundo/24802
 
 #EXTINF: -1 tvg-logo = "" group-title = "Documentarios", Discovery Channel
 http://xsrv.me:8080/edmundo2021/2021edmundo/24966
+
+#EXTINF: -1 tvg-logo = "" group-title = "Documentarios", History Channel
+http://xsrv.me:8080/edmundo2021/2021edmundo/25002
