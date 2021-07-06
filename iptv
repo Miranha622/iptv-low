@@ -20,3 +20,6 @@ http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 
 #EXTINF: -1 tvg-logo = "" group-title = "Internacionais", Nasa Tv
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "noticias", Rede Tv
+https://hls.brasilstream.com.br/live/redetves/redetves/tracks-v1a1/mono.m3u8
