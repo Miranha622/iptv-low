@@ -2,5 +2,9 @@
 
 #EXTINF: -1 tvg-logo = "" group-title = "documentarios", Id
 http://app.smarters.ovh:80/humberto12/12humberto/190
+
 #EXTINF: -1 tvg-logo = "" group-title = "noticias", Record Tv
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "noticias", Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
