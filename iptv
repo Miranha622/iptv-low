@@ -32,3 +32,6 @@ http://xsrv.me:8080/edmundo2021/2021edmundo/24939
 
 #EXTINF: -1 tvg-logo = "" group-title = "Esportes", Sportv
 http://xsrv.me:8080/edmundo2021/2021edmundo/24613
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", A&E
+http://xsrv.me:8080/edmundo2021/2021edmundo/24802
