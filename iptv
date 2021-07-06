@@ -29,3 +29,6 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 
 #EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Tnt Series
 http://xsrv.me:8080/edmundo2021/2021edmundo/24939
+
+#EXTINF: -1 tvg-logo = "" group-title = "Esportes", Sportv
+http://xsrv.me:8080/edmundo2021/2021edmundo/24613
