@@ -56,3 +56,6 @@ http://xsrv.me:8080/edmundo2021/2021edmundo/25105
 
 #EXTINF: -1 tvg-logo = "" group-title = "Desenhos e animações", Gloobinho
 http://xsrv.me:8080/edmundo2021/2021edmundo/25103
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Megapix
+http://xsrv.me:8080/edmundo2021/2021edmundo/24893
