@@ -59,3 +59,45 @@ http://xsrv.me:8080/edmundo2021/2021edmundo/25103
 
 #EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Megapix
 http://xsrv.me:8080/edmundo2021/2021edmundo/24893
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Paramount
+http://xsrv.me:8080/edmundo2021/2021edmundo/24899
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Space
+http://xsrv.me:8080/edmundo2021/2021edmundo/24905
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Telecine Fun
+http://xsrv.me:8080/edmundo2021/2021edmundo/24777
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Telecine Pipoca
+http://xsrv.me:8080/edmundo2021/2021edmundo/24784
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Telecine Premium
+http://xsrv.me:8080/edmundo2021/2021edmundo/24790
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", TNT
+http://xsrv.me:8080/edmundo2021/2021edmundo/24931
+
+#EXTINF: -1 tvg-logo = "" group-title = "Documentarios", Animal Planet
+http://xsrv.me:8080/edmundo2021/2021edmundo/24959
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", AXN
+http://xsrv.me:8080/edmundo2021/2021edmundo/24815
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Star Channel
+http://xsrv.me:8080/edmundo2021/2021edmundo/24835
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", FX
+http://xsrv.me:8080/edmundo2021/2021edmundo/24860
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Sony
+http://xsrv.me:8080/edmundo2021/2021edmundo/24822
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Studio Universal
+http://xsrv.me:8080/edmundo2021/2021edmundo/24910
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Syfy
+http://xsrv.me:8080/edmundo2021/2021edmundo/24917
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Warner Channel
+http://xsrv.me:8080/edmundo2021/2021edmundo/24952
