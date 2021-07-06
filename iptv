@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-logo = "" group-title = "documentarios", Id
+#EXTINF: -1 tvg-logo = "" group-title = "Documentarios", Id
 http://app.smarters.ovh:80/humberto12/12humberto/190
 
-#EXTINF: -1 tvg-logo = "" group-title = "noticias", Record Tv
+#EXTINF: -1 tvg-logo = "" group-title = "Noticias", Record Tv
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF: -1 tvg-logo = "" group-title = "noticias", Record News
+#EXTINF: -1 tvg-logo = "" group-title = "Noticias", Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF: -1 tvg-logo = "" group-title = "noticias", Band
+#EXTINF: -1 tvg-logo = "" group-title = "Noticias", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF: -1 tvg-logo = "" group-title = "Desenhos e animações", Retro Cartoon
@@ -21,8 +21,11 @@ http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 #EXTINF: -1 tvg-logo = "" group-title = "Internacionais", Nasa Tv
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF: -1 tvg-logo = "" group-title = "noticias", Rede Tv
+#EXTINF: -1 tvg-logo = "" group-title = "Noticias", Rede Tv
 https://hls.brasilstream.com.br/live/redetves/redetves/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo = "" group-title = "Internacionais", Tv 5 Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "Filmes e Séries", Universal
+http://xsrv.me:8080/edmundo2021/2021edmundo/24944
