@@ -104,3 +104,9 @@ http://xsrv.me:8080/edmundo2021/2021edmundo/24952
 
 #EXTINF: -1 tvg-logo = "" group-title = "Desenhos e animações", Tooncast
 http://xsrv.me:8080/edmundo2021/2021edmundo/25183
+
+#EXTINF: -1 tvg-logo = "" group-title = "Variedades", Comedy Central
+http://xsrv.me:8080/edmundo2021/2021edmundo/25127
+
+#EXTINF: -1 tvg-logo = "" group-title = "Noticias", CNN Brasil
+http://xsrv.me:8080/edmundo2021/2021edmundo/30277
